@@ -19,21 +19,21 @@ Titulo;
 ## Tópicos
 🔹 Descrição
 
-🔹 Funcionalidades
+🔹 Definição de gênero
 
-🔹 Distribuição
+🔹 Mecânicas
 
-🔹 Pré-requisitos
+🔹 História
 
-🔹 Como rodar a aplicação
+🔹 Diferencial
 
-🔹 Testes realizados
+🔹 Sistema operacional
 
-🔹 Banco de Dados
+🔹 Público alvo
 
-🔹 Linguagens, dependências e libs utilizadas
+🔹 Equipe
 
-🔹 Novas Recursos
+🔹 Cronograma
 
 🔹 Resolvendo problemas
 
@@ -41,7 +41,7 @@ Titulo;
 
 🔹 Desenvolvedores/Contribuintes
 
-🔹 Informações Extras
+🔹 Objetivo de Desenvolvimento Sustentável
 
 
 ...
