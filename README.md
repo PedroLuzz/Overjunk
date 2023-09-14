@@ -35,12 +35,6 @@ Titulo;
 
 🔹 Cronograma
 
-🔹 Resolvendo problemas
-
-🔹 Recursos inseridos 
-
-🔹 Desenvolvedores/Contribuintes
-
 🔹 Objetivo de Desenvolvimento Sustentável
 
 
