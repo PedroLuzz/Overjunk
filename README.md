@@ -17,7 +17,7 @@ Titulo;
 ## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
 ## Tópicos
-🔹 Descrição do projeto 
+🔹 Overjunk é um jogo de aventura e exploração que mergulha os jogadores na emocionante vida de Tutu, uma tartaruguinha que parte em uma jornada misteriosa em um vasto mundo subaquático. O jogo é uma experiência única, destacando a importância da preservação marinha.
 
 🔹 Funcionalidades
 
