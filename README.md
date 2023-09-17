@@ -12,9 +12,9 @@ Titulo;
 • Uma previsão de cronograma e orçamento do projeto;
 • Qual objetivo de desenvolvimento sustentável da ONU foi utilizado no projeto.
 
-# Titulo ou Arte do Projeto
+# Overjunk
 ## Versão: 1.0 
-## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+## Status do Projeto: ⚠️ Espera 
 
 ## Tópicos
 🔹 Descrição
