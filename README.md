@@ -25,29 +25,29 @@
 
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Um jogo 2D usando pixel art, focado em narrativa que ensina sobre os maus tratos que a vida marinha recebe.
 
 ## Definição de gênero
-Uma descrição do gênero do jogo
+Genero: coletatoon
 
 ## Mecânicas
 
-✔️ Funcionalidade 1
+Funcionalidade: Andar
 
-✔️ Funcionalidade 2
+Funcionalidade: Coletar
 
-✔️ Funcionalidade 3
+Funcionalidade: Comer
 
-✔️ Funcionalidade 4
+Funcionalidade: Interagir
 
 ## Sinopse 
-Uma breve História do jogo
+Uma Tartaruga nasce em uma caverna e em busca de seus familiares e comida, descobre a maldade humana sobre o seu lar.
 
 ## Diferencial
-Diferencial do jogo em relacao aos outros
+Foco na Historia e Level Design
 
 ## Sistema operacional   
-Sistema que deve-se ser rodado
+Windows
 
 ## Equipe
 a equipe necessaria para o desenvolvimento do projeto
