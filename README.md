@@ -56,7 +56,17 @@ a equipe necessaria para o desenvolvimento do projeto
 Cronograma e orcamento em horas do projeto
 
 ## Objetivo de Desenvolvimento Sustentavel da ONU
-Uma descricao da ODS da ONU e suas propostas
+14. VIda Marinha
+Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável
+
+tem como propostas diminuir significamente a poluicao nos oceanos ate 2025;
+
+minimizar os impactos e enfentar a acidificacao dos oceanos por meio da cooperacao cientifica;
+
+proibir certas formas de subsidios a pesca que contribuem para sobrepesca e a sobrecapacidade;
+
+conservar pelo menos 10% das zonas costeira e marinhas
+
 
 ## Licença
 The MIT License (MIT)
