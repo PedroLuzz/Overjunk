@@ -1,6 +1,4 @@
 # Overjunk
-![image](https://github.com/PedroLuzz/Overjunk/assets/101370780/c5e16382-b3b3-4df6-b5d3-66e78733875b)
-
 ## Versão: 1.0 
 ## Status do Projeto: ⚠️ Espera 
 
